@@ -105,9 +105,9 @@ The ResNet-based model achieved outstanding performance in the classification ta
 - SaiChiranthan  
 
 ### Mentees
-- Prajwal  
-- Suhas Gowda M  
 - Himanshi Gigal  
+- Suhas Gowda M  
+- Prajwal 
 - Vaibhav  
 - Harish  
 
