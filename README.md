@@ -72,9 +72,7 @@ The ResNet-based model achieved outstanding performance in the classification ta
 - **Loss (Epoch 9/25)**: ~0.5040
 
 ### 📈 Training Accuracy & Loss
-![ResNet Results](Resnet![Up<img width="628" height="463" alt="Resnet-Results" src="https://github.com/user-attachments/assets/3e745f29-abd0-4fa9-bc1e-66bda776610a" />
-loading Resnet-Results.png…]()
--Results.png)
+![ResNet Results](Resnet-Results.png)
 
 ### 📊 Classification Report
 ![Classification Report](Resnet-ClassificationReport.png)
@@ -107,9 +105,9 @@ loading Resnet-Results.png…]()
 - SaiChiranthan  
 
 ### Mentees
-- Himanshi Gigal  
+- Himanshi Gigal
 - Suhas Gowda M  
-- Prajwal 
+- Prajwal  
 - Vaibhav  
 - Harish  
 
